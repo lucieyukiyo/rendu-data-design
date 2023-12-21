@@ -1,0 +1,23 @@
+body{
+  font-family: 'Avenir', sans-serif; 
+  color: #AEC5EB;  
+}
+.header {
+    width: 100%;
+    height: 300px;
+    color: #fff;
+    background:url(jo-de-paris-2024-les-volontaires-peuvent-ils-exiger-une-compensation-financiere-1466393.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+    text-align: center;
+      padding:1px
+  }
+div {
+  display: flex;
+justify-content: center;
+}
+p {
+  border: 2px;
+  width: 40%;
+  margin: 20;
+}
